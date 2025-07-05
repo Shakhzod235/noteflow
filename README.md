@@ -12,7 +12,6 @@ It’s designed as a personal project to explore real-world React architecture, 
 - 🗂️ Hierarchical folder structure
 - 📝 Markdown editor using `react-markdown`
 - 🧭 Nested routing with `react-router-dom`
-- 💾 LocalStorage fallback and server-side persistence
 - 🔄 REST API backend built with **Express.js**
 - 🔁 **React Query** for data fetching, caching, and mutations
 - 🎨 Clean, responsive UI with TailwindCSS
